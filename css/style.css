@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.navbar-brand.ml-5{
+	margin: 20px;
+}
+
+.banner-image{
+	background:url(../img/banner.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.cls-sec-banner h1{
+	color: white;
+    font-size: 120px;
+    margin-top: 215px;
+    text-transform: uppercase;
+}
+
+.cls-sec-banner .cls-banner-line{
+	border-bottom: 3px solid #15a4fa;
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.cls-sec-banner p{
+	color: white;
+    font-size: 16px;
+    margin-top: 40px;
+    margin-bottom: 35px;
+}
+
+.cls-sec-banner .banner-button{
+	color: white!important;
+    padding: 10px 20px;
+    background: transparent;
+    margin-bottom: 150px;
+}
+
+.cls-sec-banner .banner-icon{
+	color: white;
+    margin-bottom: 90px;
+}
+
+
+
+
+.cls-sec-works h2{
+    font-size: 40px;
+    color: #2d3950;
+}
+
+
+.cls-sec-works p{
+    font-size: 15px;
+    color: #999999;
+    word-spacing: 1px;
+}
+
+
+.cls-sec-feature{
+
+}
+
+.cls-sec-feature img{
+	padding: 85px;
+}
+
+.card-body{
+
+}
+
+.card-body h2{
+	text-align: center;
+	font-size: 22px;
+	margin-bottom: 25px;
+}
+
+.card-body p{
+	text-align: center;
+	color: #a0a0a0;
+	font-size: 15px;
+}
+
+
+
+
+
+.cls-sec-portfolio{
+	background-color: #f6f9f9;
+}
+
+
+.cls-sec-portfolio h2{
+	margin:35px;
+	font-size: 40PX;
+	color: #2d3950;
+}
+
+
+.cls-sec-portfolio p{
+	margin-bottom: 55px;
+	font-size: 15PX;
+	color: #909090;
+}
+
+
+
+
+
+
+
+
+
+.contact-background{
+	background-image: url(../img/eight.jpg);
+}
+.contact-header{
+	}
+
+.contact-header h2{
+	margin-top: 75px;
+	color: #909090;
+	color: white;
+}
+
+.contact-header p{
+	margin-bottom: 30px;
+	color: #909090;
+}
+
+.custom-text{
+    background: transparent;
+    outline: none;
+    border: 1px solid #999999;
+
+}
+
+.custom-textarea{
+	 margin-top: 15px;
+    height: 120px;
+    resize: none;
+    background: transparent;
+    outline: none;
+    border: 1px solid #999999;
+}
+
+.form-check{
+	margin-bottom: 50px;
+}
+
+.form-group{
+	color: white;
+}
+
+.btn.btn-primary{
+	background: transparent;
+    padding: 1% 5%;
+    font-size: 20px;
+}
+
+
+
+
+
+
+.cls-footer h3{
+    font-size: 15px;
+    color: #999999;
+}
+
+.cls-footer ul{
+    list-style: none;
+}
+
+.cls-footer ul li{
+    display: inline-block;
+}
+
+.cls-footer ul li a{
+    background: #15a4fa;
+    color: white;
+    padding: 8px 10px;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+}
